@@ -1,9 +1,14 @@
-<image src="https://www.gnu.org/graphics/gplv3-127x51.png">
+# Simple Notepad
 
-<h1>Simple notepad written in python using the library "customtkinter".</h1>
+![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-<br>
-<img src="/Screenshot/notepad.png" alt="Notepad">
-<br>
+A simple notepad written in Python using the "customtkinter" library.
 
-use: "python notepad.py file_name" if you want to open an new file or an existing file.
+![Notepad Screenshot](/Screenshot/notepad.png)
+
+## Usage
+To use the notepad, run the following command in your terminal:
+
+```bash
+python notepad.py file_name
+
